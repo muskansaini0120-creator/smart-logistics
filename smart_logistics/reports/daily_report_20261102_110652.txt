@@ -1,0 +1,22 @@
+SMART LOGISTICS REPORT
+======================
+
+Date: 2026-11-02
+Today's Bookings: 6
+Today's Deliveries: 1
+Today's Failed Attempts: 15
+Pending Shipments: 3
+Returns: 3
+
+Total Revenue: Rs. 1645
+Delivery Success Rate: 6.25%
+Average Delivery Time: 0.02 hours
+
+STATUS SUMMARY
+DELIVERED: 2
+RETURNED_TO_SENDER: 2
+RETURN_INITIATED: 1
+BOOKED: 2
+
+AGENT-WISE DELIVERIES
+AG0001 - Amit Sharma: 1

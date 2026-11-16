@@ -1,0 +1,74 @@
+[
+    {
+        "id": "C001",
+        "full_name": "Muskan",
+        "phone_no": "9876543210",
+        "address": "Mandi",
+        "city": "Mandi",
+        "pin_code": "175001",
+        "active": true
+    },
+    {
+        "id": "C002",
+        "full_name": "Rahul",
+        "phone_no": "9876543211",
+        "address": "Delhi",
+        "city": "Delhi",
+        "pin_code": "110001",
+        "active": true
+    },
+    {
+        "id": "C003",
+        "full_name": "Test Customer",
+        "phone_no": "9793645989",
+        "address": "Mandi",
+        "city": "Shimla",
+        "pin_code": "175001",
+        "active": true
+    },
+    {
+        "id": "C004",
+        "full_name": "Deepali",
+        "phone_no": "7012816009",
+        "address": "sunder nagar",
+        "city": "sunder nagar",
+        "pin_code": "175002",
+        "active": true
+    },
+    {
+        "id": "C005",
+        "full_name": "ankul",
+        "phone_no": "1345648903",
+        "address": "mandi",
+        "city": "sunder nagar",
+        "pin_code": "175002",
+        "active": true
+    },
+    {
+        "id": "C006",
+        "full_name": "nakul",
+        "phone_no": "8912345678",
+        "address": "mandi",
+        "city": "mandi",
+        "pin_code": "175001",
+        "active": true
+    },
+    {
+        "id": "C007",
+        "full_name": "Test Customer",
+        "phone_no": "9793683645",
+        "address": "Mandi",
+        "city": "Shimla",
+        "pin_code": "175001",
+        "active": true
+    },
+    {
+        "id": "C008",
+        "full_name": "usha",
+        "phone_no": "0987563732",
+        "address": "delhi",
+        "city": "delhi",
+        "pin_code": "7889",
+        "active": true
+    }
+]

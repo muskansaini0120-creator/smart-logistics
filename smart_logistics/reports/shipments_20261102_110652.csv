@@ -1,0 +1,8 @@
+tracking_id,sender_id,receiver_id,origin,destination,parcel_description,weight,service_type,zone,is_fragile,booked_at,declared_value,status,charge_breakdown,assigned_agent_id,recipient_name,delivered_at
+SHP000001,C001,C002,Mandi,Delhi,Books,1.2,Standard,Interstate,True,2026-10-30T12:03:34.191527,,DELIVERED,"{'base_charge': 60, 'weight_charge': 50, 'zone_charge': 90, 'fragile_charge': 35, 'total': 235}",,,
+SHP000002,C001,C002,Mandi,Delhi,Books,1.2,Standard,Interstate,True,2026-11-02T09:30:23.678962,,RETURNED_TO_SENDER,"{'base_charge': 60, 'weight_charge': 50, 'zone_charge': 90, 'fragile_charge': 35, 'total': 235}",,,
+SHP000003,C001,C002,Mandi,Delhi,Books,1.2,Standard,Interstate,True,2026-11-02T10:04:19.084763,,RETURN_INITIATED,"{'base_charge': 60, 'weight_charge': 50, 'zone_charge': 90, 'fragile_charge': 35, 'total': 235}",AG0001,,
+SHP000004,C001,C002,Mandi,Delhi,Books,1.2,Standard,Interstate,True,2026-11-02T10:20:00.510653,,RETURNED_TO_SENDER,"{'base_charge': 60, 'weight_charge': 50, 'zone_charge': 90, 'fragile_charge': 35, 'total': 235}",AG0001,,
+SHP000005,C001,C002,Mandi,Delhi,Books,1.2,Standard,Interstate,True,2026-11-02T10:26:36.854569,,DELIVERED,"{'base_charge': 60, 'weight_charge': 50, 'zone_charge': 90, 'fragile_charge': 35, 'total': 235}",AG0001,Rahul Sharma,2026-11-02T10:27:59.138141
+SHP000006,C001,C002,Mandi,Delhi,Books,1.2,Standard,Interstate,True,2026-11-02T10:41:40.626673,,BOOKED,"{'base_charge': 60, 'weight_charge': 50, 'zone_charge': 90, 'fragile_charge': 35, 'total': 235}",,,
+SHP000007,C001,C002,Mandi,Delhi,Books,1.2,Standard,Interstate,True,2026-11-02T10:42:09.595850,,BOOKED,"{'base_charge': 60, 'weight_charge': 50, 'zone_charge': 90, 'fragile_charge': 35, 'total': 235}",,,

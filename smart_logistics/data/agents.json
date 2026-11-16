@@ -1,0 +1,26 @@
+[
+    {
+        "id": "AG0001",
+        "full_name": "Amit Sharma",
+        "phone_no": "9876543212",
+        "address": "Mandi",
+        "service_city": "Mandi",
+        "active": true
+    },
+    {
+        "id": "AG0002",
+        "full_name": "raghav",
+        "phone_no": "8923457896",
+        "address": "mandi",
+        "service_city": "sunder nagar ",
+        "active": true
+    },
+    {
+        "id": "AG0003",
+        "full_name": "nihil",
+        "phone_no": "0934568943",
+        "address": "delhi",
+        "service_city": "delhi",
+        "active": true
+    }
+]
